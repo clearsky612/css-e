@@ -1,7 +1,59 @@
+/* exercise 1
 div {
     background-color: red;
     color: white;
     font-size: 32px;
     text-align: center;
     font-weight: bold;
+}
+*/
+
+/* exercise 2 
+p.poddclass {
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    
+}
+
+.fontclass {
+    font-size: 24px;
+}
+
+#secondrow {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#fourthrow {
+    background-color:#90ee90;
+    font-weight: bold;
+}
+*/
+
+/* exercise 3 
+.btnclass1 {
+    background-color: black;
+    color: white;
+}
+
+.btnclass2{
+    background-color: yellow;
+}
+
+.btnclass1,.btnclass2 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+*/
+
+/* exercise 4 */
+
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
 }
