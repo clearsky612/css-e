@@ -68,6 +68,8 @@ div p{
     text-align: center;
 }
 
+/* .container .text : div p : div .text : .container p */
+
 /* .container p {
     background-color: yellow;
     color: red;
