@@ -46,7 +46,7 @@ p.poddclass {
 }
 */
 
-/* exercise 4 */
+/* exercise 4
 
 .avatar.proportioned {
     width: 300px;
@@ -56,4 +56,22 @@ p.poddclass {
 .avatar.distorted {
     width: 200px;
     height: 400px;
+}
+*/
+
+/* exercise 5 */
+
+/* div p{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+.container p {
+    background-color: yellow;
+    color: red;
+    font-size: 40px;
+    text-align: center;
+
 }
